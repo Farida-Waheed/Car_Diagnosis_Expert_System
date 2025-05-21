@@ -7,8 +7,7 @@ A **rule-based expert system** developed in Prolog to diagnose common car issues
 ## 🏫 Project Overview  
 **University**: Benha University, Faculty of Engineering (Shoubra)  
 **Department**: Communications and Computer Engineering  
-**Course**: Artificial Intelligence (CCE414)  
-**Supervisor**: Dr. Mohamed Rehan  
+**Course**: Artificial Intelligence  
 
 **Purpose**:  
 - Assist car owners in identifying issues before consulting a professional.  
@@ -111,7 +110,7 @@ COOLING SYSTEM ISSUES
 
 ## 📜 Poster
 
-![image](https://github.com/user-attachments/assets/7c5504da-9b4e-4628-aa5d-4a46489cc51b)
+  ![image](https://github.com/user-attachments/assets/7c5504da-9b4e-4628-aa5d-4a46489cc51b)
 
 ---
 
